@@ -60,3 +60,15 @@ I found this one!
 https://www.aliexpress.us/item/3256810424345892.html
 
 It has a small footprint so it shouldn't bulk up my fume extractor too much.
+
+I began designing the case on SolidWorks. 
+
+![image](/journal/assets/Case_1.png)
+
+For the design, I've decided on a 2 piece case with a top and a bottom. This will make it easy to swap filters when it comes up. I've also included separate slots for the fan and HEPA filter. While modeling, I thought of ways to combine the top and bottom pieces, and while I love bolts, I want to try using magnets. I haven't used magnets in my projects before, but seeing projects like gridfinity made me want to use them. They also have a satisfying click sound!
+
+I also wanted to add a fan grill for the back of the fan, incase I accidentally touch the back. While researching fan grills, I encountered Noctua's fan grill design, which reduces noise without reducing much airflow. I think I'll go with that design. 
+
+![image](/journal/assets/fangrill.webp)
+
+Well that's it for today! Tonight's a school night so I can't work on this for that long. 
